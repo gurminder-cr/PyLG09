@@ -29,8 +29,8 @@ print(l1)
 
 
 # remove or pop 
-# l1.pop(15) # by default last element remove 
-# print(l1)
+l1.pop(15) # by default last element remove 
+print(l1)
 # Remove and return item at index (default last).
 # Raises IndexError if list is empty or index is out of range.
 
